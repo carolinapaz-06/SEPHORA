@@ -5,7 +5,7 @@
 }
 .barras {display: none;
 }
-.desplegable{background: orange;
+.desplegable{background: red;
 }
 ul{
     display: flex;
@@ -50,7 +50,7 @@ nav ul li a:hover {background: black;
         text-align: left;
     }
   .boton_menu {
-    background-color: orange;
+    background-color: red;
     background-repeat: no-repeat;
     height: 30px;
     width: 30px;
@@ -63,7 +63,7 @@ nav ul li a:hover {background: black;
     margin: 10px 10px 10px 20px;
   }
   .abrir_menu {
-    background-image: url('./pollo.png');
+    background-image: url(sephora.jpg);
     background: rgb(236, 123, 17);
     backdrop-filter: blur(2px);
     transform: translate(0%);
@@ -71,7 +71,7 @@ nav ul li a:hover {background: black;
     transition: 0.5s;
   }
   .colocar_x {
- background-image: url(sep.jpg);
+ background-image: url(sephora.jpg);
  background-color: #1e1e1e;
  background-repeat: no-repeat;
  height: 30px;
@@ -87,7 +87,7 @@ nav ul li a:hover {background: black;
         font-size: 1.6rem;
     }
 }
-.pollo, .DESAYUNO , .cena , .postresybebidas {
+.maquillaje, .catalogo, .entrada, .pedido {
  font-size: 30px;
  text-align: center;
 }
