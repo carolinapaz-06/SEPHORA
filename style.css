@@ -5,7 +5,7 @@
 }
 .barras {display: none;
 }
-.desplegable{background: red;
+.desplegable{background: pink;
 }
 ul{
     display: flex;
@@ -50,7 +50,7 @@ nav ul li a:hover {background: black;
         text-align: left;
     }
   .boton_menu {
-    background-color: red;
+    background-color: pink;
     background-repeat: no-repeat;
     height: 30px;
     width: 30px;
